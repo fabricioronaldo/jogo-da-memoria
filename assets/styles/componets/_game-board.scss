@@ -1,0 +1,8 @@
+.game-board{
+    background: linear-gradient(90deg, rgba(232,243,214,0.8) 1%, rgba(252,249,190,0.8) 45%, rgba(250,171,120,0.8) 98%);
+    display: grid;
+    grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 1em;
+    border-radius: 10px;
+}
